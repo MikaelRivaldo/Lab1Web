@@ -100,6 +100,45 @@ html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya`
 
 ![tampilan hyperlink](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/55d2b764-5300-45d1-96ee-e85c0cc32661)
 
+# Jawab Pertanyaan Berikut
+
+2.Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+   
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+# Jawab
+
+
+2Perbedaan antara tag <p> dan tag <br> adalah sebagai berikut:
+
+`Tag <p> (paragraph) digunakan untuk membuat paragraf teks, dan secara otomatis menambahkan jarak vertikal (baris baru) sebelum dan setelah paragraf. Ini adalah elemen blok dan biasanya digunakan untuk mengelompokkan teks.`
+
+`Tag <br> (line break) digunakan untuk membuat jarak vertikal (baris baru) dalam teks, tetapi tidak membentuk paragraf baru. Ini adalah elemen inline dan digunakan untuk mengatur pemisahan dalam teks, seperti dalam alamat atau stihiran.`
+
+3.Perbedaan antara atribut title dan alt pada tag <img> adalah sebagai berikut:
+
+`Atribut alt: Atribut ini digunakan untuk memberikan teks alternatif untuk gambar. Ini penting untuk aksesibilitas web, karena akan menampilkan teks jika gambar tidak dapat dimuat atau jika pembaca layar digunakan. Teks alternatif ini juga membantu mesin pencari memahami isi gambar.`
+
+`Atribut title: Atribut ini digunakan untuk memberikan judul atau informasi tambahan tentang gambar saat pengguna mengarahkan kursor mouse ke gambar tersebut (tooltip). Ini adalah informasi tambahan dan tidak ditampilkan jika gambar tidak dimuat. Ini dapat membantu dalam memberikan keterangan atau deskripsi singkat tentang gambar.`
+
+4.`Untuk mengatur ukuran gambar agar tampilan gambar proporsional, sebaiknya kedua atribut width dan height diisi. Ini karena ketika hanya satu atribut diisi, gambar mungkin menjadi terdistorsi dan tidak proporsional. Jika Anda hanya mengisi salah satu atribut (misalnya, hanya width atau hanya height), browser akan secara otomatis menghitung nilai atribut yang lain agar gambar tetap proporsional. Tetapi, lebih baik mengisi keduanya dengan nilai yang sesuai agar hasilnya lebih dapat diprediksi dan sesuai dengan desain yang diinginkan.`
+
+5.Atribut target digunakan untuk mengendalikan perilaku hyperlink. Berikut adalah penjelasan untuk nilai-nilai atribut target yang berbeda:
+
+`_blank: Jika menggunakan _blank, tautan akan membuka halaman yang terhubung dalam tab atau jendela browser yang baru. Ini memungkinkan pengguna tetap berada di halaman asal.`
+
+`_self: Ini adalah perilaku default. Jika menggunakan _self, tautan akan membuka halaman yang terhubung di jendela atau tab yang sama di mana tautan itu ada.`
+
+`_top: Jika menggunakan _top, tautan akan membuka halaman yang terhubung di jendela atau tab utama (paling atas) dan menggantikan semua bingkai (frames) jika ada.`
+
+`_parent: Jika menggunakan _parent, tautan akan membuka halaman yang terhubung di jendela atau tab yang menggantikan bingkai (frame) yang berisi tautan tersebut, jika ada bingkai yang digunakan dalam halaman.
+Pilihan nilai atribut target ini memberikan kontrol atas cara halaman web yang terhubung dibuka dan memengaruhi pengalaman pengguna.`
 
 
 
