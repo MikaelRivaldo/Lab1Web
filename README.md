@@ -8,5 +8,7 @@ screenshotnya.
 6. Kirim URL repository pada e-learning ecampus.
 
 # Pertama buatlah sebuah file dan masukan code seperti dibawah ini  :
+![gambar 1](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/17581abe-a79b-4566-931e-fe4d6bce3475)
 
+Lalu
 
