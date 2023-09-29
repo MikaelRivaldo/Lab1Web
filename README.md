@@ -10,5 +10,96 @@ screenshotnya.
 # Pertama buatlah sebuah file dan masukan code seperti dibawah ini  :
 ![gambar 1](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/17581abe-a79b-4566-931e-fe4d6bce3475)
 
-Lalu
+`Lalu simpan file tersebut dengan shourcut CTRL+S,setelah disimpan buka dokumen dan klik kanan pada folder htmlnya,lalu klik open with dengan browser kesukaan kalian.seperti contoh Mozila,Crohome,dan Edge`
+
+`Seperti gambar dibawah ini`
+
+![tampilan web browser](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/5baf13a7-75db-4589-907f-ce798698ae5e)
+
+
+
+# Selanjutnya Membuat Paragraf
+
+`Selanjutnya buatlah paragraf sederhana sebagai berikut  :`
+
+```html
+<!-- Ini adalah paragraf pertama -->
+<p>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
+Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
+adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar
+HTML.</p>
+<!-- Ini adalah paragraf kedua -->
+<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
+tag dasar html.</p>
+```
+`Dan untuk hasilnya akan seperti ini  :`
+
+![tampilan perubahan paragraf](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/491bad00-4790-4aad-bba0-da314d7503a3)
+
+`Selanjutnya atur atribut paragraf dan Menambahkan Judul seperti berikut  :`
+
+```html
+<!-- Ini adalah paragraf pertama -->
+<p align=”center”>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman
+Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama
+yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+tag-tag dasar HTML.</p>
+<!-- Ini adalah paragraf kedua -->
+<p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa
+kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
+dengan menggunakan tag dasar html.</p>
+```
+`Dan untuk hasil menambahkan judul dan Atribut paragraf akan seperti ini  :`
+
+![tampilan menambahkan judul](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/af9334dd-dea6-4cfd-b901-1d09ca7ad278)
+
+`Selanjutnya Memformat tesk`
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada
+penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+
+`Dan untuk hasilnya akan seperti ini  :`
+
+![tampilan format ](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/e2fb12ee-6a49-493e-9d2d-c6ce0ad46305)
+
+`Selanjutnya Menisipkan gambar`
+
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian
+simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan
+gambar dari website external.
+
+`Selanjutnya tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3
+sebelumnya.menggunakan code seperti dibawah ini  :`
+
+```html
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="Logo_UPB.png" title="Logo Univeritas Pelita Bangsa">
+
+`Dan untuk hasilnya akan seperti ini  :`
+
+![tampilan logo upb](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/61747416-60f2-4632-a462-8400aa882480)
+
+`Selanjutnya Menambahkan Hyperlink Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut`
+
+```html
+<!-- menambahkan link navigasi -->
+<nav>
+<a href="lab1_tag_dasar.html">Dasar HTML</a>
+<a href="lab1_halaman2.html">Halaman 2</a>
+<a href="http://www.google.com">Halaman Web Eksternal Google</a>
+</nav>
+<hr>
+```
+
+`Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag
+html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya`
+
+`Dan untuk hasilnya akan seperti ini  :`
+
+![tampilan hyperlink](https://github.com/MikaelRivaldo/Lab1Web/assets/115770247/55d2b764-5300-45d1-96ee-e85c0cc32661)
+
+
+
 
